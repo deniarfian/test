@@ -1,0 +1,11 @@
+/* container blog*/
+#containerblog {
+    width: 95vw;
+    height: 60vw;
+    margin: 0 auto;
+    background-color: whitesmoke;
+    outline: 8px solid #4834D4;
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: ;
+}
